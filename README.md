@@ -8,9 +8,6 @@ A powerful, single file scientific computing environment featuring a numerical c
 
 
 
-[Image of scientific calculator interface]
-
-
 ## ✨ Key Features
 
 ### 1. 🔬 Advanced Scientific Calculator
@@ -39,10 +36,3 @@ A powerful, single file scientific computing environment featuring a numerical c
 - **Responsive Layout:** CSS Grid architecture that adapts from desktop to mobile.
 - **Session History:** Logs all calculations and results for quick reference.
 
-## 🚀 Quick Start
-
-No installation or build process is required. This is a standalone solution.
-Run it Simply double-click index.html to open it in any modern web browser.
-1. **Clone the repo**
-   ```bash
-   git clone [https://github.com/yourusername/quantum-math-workstation.git](https://github.com/yourusername/quantum-math-workstation.git)
